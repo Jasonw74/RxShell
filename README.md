@@ -68,3 +68,8 @@ While this is obviously :^) the best library, there are alternatives you could b
 * [@Chainfire's](https://twitter.com/ChainfireXDA) [libsuperuser](https://github.com/Chainfire/libsuperuser)
 * [@SpazeDog's](https://github.com/SpazeDog) [rootfw](https://github.com/SpazeDog/rootfw)
 * [@topjohnwu's](https://twitter.com/topjohnwu) [libsu](https://github.com/topjohnwu/libsu)
+# RxShell
+
+![Build](https://github.com/d4rken/RxShell/actions/workflows/android.yml/badge.svg)
+[ ![Download](https://jitpack.io/v/d4rken/rxshell.svg)](https://jitpack.io/#d4rken/rxshell)
+[ ![Coverage 
